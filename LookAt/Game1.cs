@@ -45,7 +45,6 @@ public class Game1 : Game
         IsMouseVisible = false;
 
         Content.RootDirectory = "Content";
-        IsMouseVisible = true;
     }
 
     protected override void Initialize()
